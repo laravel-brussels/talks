@@ -1,4 +1,10 @@
-talks
+Laravel Brussels Meetup Talks
 =====
 
-Submit topics for future talks, and vote! (Topics are listed as "issues")
+www.meetup.com/laravel-brussels
+
+1) Create an issue to suggest a new topic for a talk. Please provide a descriptive title.
+
+and/or
+
+2) Browse the issues, vote and comment!
